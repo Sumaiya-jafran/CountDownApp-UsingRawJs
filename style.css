@@ -1,0 +1,24 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 3rem;
+    font-weight: bold;
+    pad: 3rem;
+}
+.countdown-app{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.countdown{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.img img{
+    height: 100vh;
+    width: 1000px;
+}
